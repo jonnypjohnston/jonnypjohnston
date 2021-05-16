@@ -5,8 +5,8 @@
 ### About JP
 - Purdue University @FortWayne
 - Class of 1989
-- Major in Mechanical Engineering
-- Minor in Aerospace Engineering
+- Major: Mechanical Engineering
+- Minor: Aerospace Engineering
 
 ### Projects I am currently assisting the Portland State Aerospace Society [Website](https://www.pdxaerospace.org/) and [GitHub](https://github.com/psas) as an Industry Advisor.
 - [LFETS](https://github.com/psas/liquid-engine-test-stand)
