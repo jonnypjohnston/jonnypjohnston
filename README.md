@@ -18,7 +18,7 @@
 ### My Current Engineering/Life Goals
 - [X] Design a Small Launch Vehicle
 - [ ] Design a Sub-orbital/Orbital Manned Ultralight named [Kestrel](http://www.smartfish.ch/en/smartfish/)
-- [ ] Fly Kestrel to the ISS
+- [ ] Fly [Kestrel](http://www.smartfish.ch/en/smartfish/) to the ISS
 - [X] Be a decent member of our species, on a daily basis...
 - [ ] Get some sleep
 - [X] GO PACK GO!!!
@@ -37,7 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
